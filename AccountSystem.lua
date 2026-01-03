@@ -14,6 +14,12 @@ AccountSystem.Accounts = {
         HWID = "taz-hwid-here"
     },
     {
+        Username = "demariouglyfuck",
+        Password = "demariouglyfuck123",
+        IsActive = true,
+        HWID = "afd57513de52a34d2e5f160efd73a926e925623b23441c65772c8d539e88d9a5"
+    },
+    {
         Username = "mafia",
         Password = "mafia123",
         IsActive = true,
