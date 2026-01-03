@@ -83,7 +83,7 @@ AccountSystem.Accounts = {
         Username = "xiaohei",
         Password = "xiaohei123",
         IsActive = true,
-        HWID = "xiaohei-hwid-here"
+        HWID = "8c30c7e01ba4576d136a319e894c0b8e946d6f66484afb0774cc1e8e1101cdb2"
     }
 }
 
