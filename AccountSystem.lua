@@ -17,7 +17,7 @@ AccountSystem.Accounts = {
         Username = "kiwi",
         Password = "kiwi123",
         IsActive = true,
-        HWID = "kiwi-hwid-here"
+        HWID = "4086db3fc498dcda3306a697680bf306ebc5ff3f22a866bedf57ac3ee1a9a294"
     },
     {
         Username = "dexter",
