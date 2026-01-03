@@ -50,6 +50,12 @@ AccountSystem.Accounts = {
         HWID = "drdisrespect-hwid-here"
     },
     {
+        Username = "hubains",
+        Password = "2#9mL$pQ!8zV@kR5",
+        IsActive = true,
+        HWID = "6aec1eec5aee5a2d1befcbe1a1afcd894577f463326016291aa999b3d9a22886"
+    },
+    {
         Username = "xiaohei",
         Password = "xiaohei123",
         IsActive = true,
