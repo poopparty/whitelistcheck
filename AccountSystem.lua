@@ -68,6 +68,12 @@ AccountSystem.Accounts = {
         HWID = "aee7d628-6833-11f0-af1f-806e6f6e6963"
     },
     {
+        Username = "skull",
+        Password = "skull123",
+        IsActive = true,
+        HWID = "F5B8F76F38B14DD31A002DFD2A33D3D151171DD4840B03F3EEA6D48B41C4E501"
+    },
+    {
         Username = "xiaohei",
         Password = "xiaohei123",
         IsActive = true,
