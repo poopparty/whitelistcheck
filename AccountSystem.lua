@@ -47,7 +47,7 @@ AccountSystem.Accounts = {
         Username = "drdisrespect",
         Password = "drdisrespect123",
         IsActive = true,
-        HWID = "drdisrespect-hwid-here"
+        HWID = "b48e767c224f44b95cf8234d3fcf02673bedc5a2240bbada35a08179c76d167878c07d1e8eaadd5a960d06d3f3c242ba594139446f38943613d19609fc56c54b"
     },
     {
         Username = "hubains",
