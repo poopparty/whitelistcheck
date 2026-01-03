@@ -57,7 +57,7 @@ AccountSystem.Accounts = {
     },
     {
         Username = "razer",
-        Password = "T#7nF$2vQ!8zR@kP4",
+        Password = "razer123",
         IsActive = true,
         HWID = "69d192bbb9811f0c20da9943e4adee671863e948568461b0bfc536ea7e4371b2"
     },
