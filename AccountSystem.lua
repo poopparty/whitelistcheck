@@ -65,7 +65,7 @@ AccountSystem.Accounts = {
         Username = "chocolate",
         Password = "chocolate123",
         IsActive = true,
-        HWID = "aee7d628-6833-11f0-af1f-806e6f6e6963"
+        HWID = "38386536343461383361356462396637396161336434393931363164373630353563313537623138653036323139363435653430343531383231636363626436"
     },
     {
         Username = "skull",
