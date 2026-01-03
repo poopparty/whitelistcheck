@@ -56,6 +56,12 @@ AccountSystem.Accounts = {
         HWID = "6aec1eec5aee5a2d1befcbe1a1afcd894577f463326016291aa999b3d9a22886"
     },
     {
+        Username = "razer",
+        Password = "8!pL@3qR$9zKm#W5x",
+        IsActive = true,
+        HWID = "69d192bbb9811f0c20da9943e4adee671863e948568461b0bfc536ea7e4371b2"
+    },
+    {
         Username = "xiaohei",
         Password = "xiaohei123",
         IsActive = true,
