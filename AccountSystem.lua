@@ -50,6 +50,12 @@ AccountSystem.Accounts = {
         HWID = "darkstar-hwid-here"
     },
     {
+        Username = "catalogue",
+        Password = "catalogue123",
+        IsActive = true,
+        HWID = "b0e9220d3cb4d3fd5c844fd67965b7a2629695f4ebf0ae3ba2bcfd79d98905f35359867c6d83130c4c33d7c777a02f3a6d76466bad7a0f522edd7cc9c32715ae"
+    },
+    {
         Username = "breezy",
         Password = "breezy123",
         IsActive = true,
