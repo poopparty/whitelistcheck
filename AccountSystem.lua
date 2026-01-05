@@ -56,6 +56,12 @@ AccountSystem.Accounts = {
         HWID = "1c94e36730bd2b370a3d772bb02b9c239fa69a86b2f370815c816a1f5fd85a60"
     },
     {
+        Username = "theyfearsavy",
+        Password = "theyfearsavy123",
+        IsActive = true,
+        HWID = "0399a3a84e1f148dd05258ff6d25af583f0b94ee9e78c9ccb555623d1c5ba5e6"
+    },
+    {
         Username = "breezy",
         Password = "breezy123",
         IsActive = true,
