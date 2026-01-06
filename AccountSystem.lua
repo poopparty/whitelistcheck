@@ -59,7 +59,7 @@ AccountSystem.Accounts = {
         Username = "syther",
         Password = "syther123",
         IsActive = true,
-        HWID = "darkstar-hwid-here"
+        HWID = "a2eed2257346a0d8007aab1ebaa2d7acf4d4528a555848600095d3d6198aa0c0"
     },
     {
         Username = "catalogue",
