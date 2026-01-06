@@ -41,7 +41,7 @@ AccountSystem.Accounts = {
         Username = "dexter",
         Password = "dexter123",
         IsActive = true,
-        HWID = "dexter-hwid-here"
+        HWID = "f21fd9a117eea4f3cf39c18f51f60d245fdfba4c20dbd6f2491d0d958b5e7b22"
     },
     {
         Username = "desire",
