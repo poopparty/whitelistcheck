@@ -44,6 +44,12 @@ AccountSystem.Accounts = {
         HWID = "4086db3fc498dcda3306a697680bf306ebc5ff3f22a866bedf57ac3ee1a9a294"
     },
     {
+        Username = "astra",
+        Password = "astra123",
+        IsActive = true,
+        HWID = "204b856a45455a420f0069ec9274f7e3ec48c832682e03bf4b3befc10fd9c9e8"
+    },
+    {
         Username = "dexter",
         Password = "dexter23",
         IsActive = true,
