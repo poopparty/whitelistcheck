@@ -26,6 +26,12 @@ AccountSystem.Accounts = {
         HWID = "F544D97D7FBC93804D690E0A43225B93CDC7174BE131BCA5EF65C440294FB50E"
     },
     {
+        Username = "yewin",
+        Password = "yewin123",
+        IsActive = true,
+        HWID = "ccb1d432a1a55b62d6dcca9312263da8104fbf8b23dd63d4349d6b77e7421930"
+    },
+    {
         Username = "mafia",
         Password = "mafia123",
         IsActive = true,
