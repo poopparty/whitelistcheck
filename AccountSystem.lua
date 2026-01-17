@@ -17,7 +17,7 @@ AccountSystem.Accounts = {
         Username = "demariouglyfuck",
         Password = "demariouglyfuck123",
         IsActive = true,
-        HWID = "afd57513de52a34d2e5f160efd73a926e925623b23441c65772c8d539e88d9a5"
+        HWID = "45E33F666165ECE6726DF07987BAB72DC7E8E59C31AFE20A5744E2D4A1E79751"
     },
     {
         Username = "nyx",
