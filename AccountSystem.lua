@@ -58,7 +58,7 @@ AccountSystem.Accounts = {
     {
         Username = "desire",
         Password = "desire123",
-        IsActive = true,
+        IsActive = false,
         HWID = "41573bb15ad12f343eefa37fdd1703fa8c7eb4765f4d53"
     },
     {
