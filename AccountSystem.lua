@@ -29,7 +29,7 @@ AccountSystem.Accounts = {
         Username = "늅늅",
         Password = "늅늅123",
         IsActive = true,
-        HWID = "0884d773-afa9-11f0-920a-806e6f6e6963"
+        HWID = "e5575b021b846db6c32ca5374db0276e0378c53028be80c68e8b4cad3d70956357a2ec0da6b275e9aae8f7af0d60e35cfb9a72b7e0615caa04d4607615e720f8"
     },
     {
         Username = "robloxbedwarsacc",
