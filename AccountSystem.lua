@@ -16,8 +16,14 @@ AccountSystem.Accounts = {
     {
         Username = "demariouglyfuck",
         Password = "demariouglyfuck123",
-        IsActive = true,
+        IsActive = false,
         HWID = "afd57513de52a34d2e5f160efd73a926e925623b23441c65772c8d539e88d9a5"
+    },
+    {
+        Username = "multipleguns",
+        Password = "multipleguns123",
+        IsActive = true,
+        HWID = "49ef1ce930a98f011e2d4b15ae2b2072877aa403e1264a0e5e1701e75bdcaa2d"
     },
     {
         Username = "zombie",
