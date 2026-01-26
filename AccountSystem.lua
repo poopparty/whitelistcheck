@@ -22,7 +22,7 @@ AccountSystem.Accounts = {
     {
         Username = "demariouglyfuck",
         Password = "demariouglyfuck123",
-        IsActive = false,
+        IsActive = true,
         HWID = "afd57513de52a34d2e5f160efd73a926e925623b23441c65772c8d539e88d9a5"
     },
     {
@@ -149,7 +149,7 @@ AccountSystem.Accounts = {
         Username = "king",
         Password = "king123",
         IsActive = true,
-        HWID = "A1B67C478554F361659F151830B336"
+        HWID = "FF609B24099FC72B8C1D7AD076586446312628E6A04625CAC41EEF71B4C1FC96"
     },
     {
         Username = "breezy",
