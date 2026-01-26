@@ -8,6 +8,12 @@ AccountSystem.Accounts = {
         HWID = "204d0b5ae4fb36b5b6992b27b12d66f1ff70cfb65f4d53"
     },
     {
+        Username = "Celestix",
+        Password = "Celestix123",
+        IsActive = true,
+        HWID = "Celestix-hwid-here"
+    },
+    {
         Username = "taz",
         Password = "taz123",
         IsActive = true,
