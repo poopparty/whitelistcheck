@@ -101,7 +101,7 @@ AccountSystem.Accounts = {
         Username = "catalogue",
         Password = "catalogue123",
         IsActive = true,
-        HWID = "1c94e36730bd2b370a3d772bb02b9c239fa69a86b2f370815c816a1f5fd85a60"
+        HWID = "ab6813fddad335d6a2ca369ec03f835172ffbcf357067fe5c92db9c6254f5081"
     },
     {
         Username = "coolman",
