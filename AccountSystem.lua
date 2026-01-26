@@ -5,7 +5,7 @@ AccountSystem.Accounts = {
         Username = "aero",
         Password = "aero123",
         IsActive = true,
-        HWID = "42413641314533362D364132412D354536312D384342332D453542344332333646384238"
+        HWID = "204d0b5ae4fb36b5b6992b27b12d66f1ff70cfb65f4d53"
     },
     {
         Username = "Celestix",
