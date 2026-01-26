@@ -41,7 +41,7 @@ AccountSystem.Accounts = {
         Username = "kaede",
         Password = "kaede123",
         IsActive = true,
-        HWID = "906AE89E3C2FC7F41CB9E184E0D5A9"
+        HWID = "3d3c91a80b519f27309333358fb0d61e8c2b250630ca38f79a42475b037b1fcc"
     },
     {
         Username = "nyx",
